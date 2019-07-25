@@ -132,6 +132,7 @@ footer {
     position: relative;
     float: left;
     width: 274px;
+    height: 274px;
     margin: 20px;
     overflow: auto;
 }
